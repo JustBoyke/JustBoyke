@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Boyke.  
-I`m a developer (self taught), business owner and content creator.  
-I live in a small town in The Netherlands (No i`m not wearing those wooden shoes)  
+I am a developer (self taught), business owner and content creator.  
+I live in a small town in The Netherlands (No i am not wearing those wooden shoes)  
   
 🔭 I’m currently working on: A custom invocing, CRM and Support Desk system for our company.
   
