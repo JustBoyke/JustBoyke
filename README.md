@@ -2,7 +2,7 @@
 
 My name is Boyke.  
 I am a developer (self taught), business owner and content creator.  
-I live in a small town in The Netherlands (No i am not wearing those wooden shoes)  
+I live in a small town in The Netherlands (Before you ask: No i am not wearing those wooden shoes, Yes i love cheese)  
   
 🔭 I’m currently working on: A custom invoicing, CRM and Support Desk system for our company.
   
