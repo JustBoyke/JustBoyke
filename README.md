@@ -10,3 +10,9 @@ I live in a small town in The Netherlands (Before you ask: No i am not wearing t
 You can also contact me using my own website: https://boykevanvugt.nl  
   
 Have a great continuation of your day :)
+
+<p align="center">
+  <a href="https://discord.gg/gewoonboyke" target="_blank">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-2/219895378240077824.png"  />
+  </a>
+</p>
