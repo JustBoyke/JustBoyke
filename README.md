@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Boyke</h1>
-<h3 align="center">Education & Technology Specialist | Teacher | Developer | Entrepreneur | IT & Network Specialist</h3>
+<h3 align="center">Technology Specialist | Developer | Entrepreneur | IT & Network Specialist</h3>
 
 ---
 
 ### 🚀 About Me
 
 - 👨‍💻 Self-taught developer focused on real-world solutions and automation  
-- 🏫 Active within educational environments, supporting technology integration and IT systems  
+- 🏫 Active within supporting technology, integration and IT systems  
 - 🤖 Building AI-powered tools, backend systems and community platforms  
 - 🌐 Entrepreneur working on hosting, infrastructure and SaaS solutions  
-- 🤝 Community builder with experience mentoring and supporting users  
 - 🔒 Strong interest in security, scalability and reliable infrastructure  
 
 ---
@@ -86,7 +85,6 @@
 **Additional Skills**
 
 - IT Support & System Administration  
-- Education-focused technology environments  
 - Networking & Infrastructure  
 - Cloud Platforms  
 - VoIP systems  
@@ -101,12 +99,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-- 💬 https://discord.gg/pixelcafe  
-- 🌍 https://boykevanvugt.nl  
-
----
 
 ### 😄 Fun Facts
 
@@ -114,12 +106,3 @@
 - 🎮 Building communities and tools people actually use  
 - ☕ Powered by coffee and late-night coding
 
----
-
-### 💬 Join My Community
-
-<p align="center">
-  <a href="https://discord.gg/pixelcafe" target="_blank">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-2/219895378240077824.png" />
-  </a>
-</p>
